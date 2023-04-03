@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iM9lyKDZiL7gI1DoAziE/htJcfnJuZq5XVk2XfcE6nQ=",
+  "Source": "com-icg-webapi",
+  "BasePath": "_content/com-icg-webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
